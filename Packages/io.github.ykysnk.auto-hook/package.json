@@ -1,0 +1,16 @@
+{
+  "name": "io.github.ykysnk.auto-hook",
+  "displayName": "Auto Hook",
+  "version": "0.0.1",
+  "description": "Simple auto hook attribute to get component automatic\nRefs: https://gist.github.com/LotteMakesStuff/d6a9a4944fc667e557083108606b7d22",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "yukiyosanako / \u3086\u304d\u3088\u3055\u306a\u3053",
+    "email": "github.qszdy@aleeas.com",
+    "url": "https://github.com/T2PeNBiX99wcoxKv3A4g"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "L:\\VRChatProjects\\VPM.AutoHook\\Packages\\io.github.ykysnk.auto-hook"
+}

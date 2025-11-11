@@ -1,9 +1,10 @@
 {
-    "name": "VRChatPackageTemplate.Editor",
-    "references": [],
-    "includePlatforms": [
-        "Editor"
+    "name": "io.github.ykysnk.auto-hook.Editor",
+    "rootNamespace": "io.github.ykysnk.autohook",
+    "references": [
+        "io.github.ykysnk.auto-hook"
     ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
