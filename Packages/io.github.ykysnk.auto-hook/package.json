@@ -1,7 +1,7 @@
 {
   "name": "io.github.ykysnk.auto-hook",
   "displayName": "Auto Hook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple auto hook attribute to get component automatic\nRefs: https://gist.github.com/LotteMakesStuff/d6a9a4944fc667e557083108606b7d22",
   "gitDependencies": {},
   "vpmDependencies": {},

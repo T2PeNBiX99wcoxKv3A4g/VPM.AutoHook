@@ -1,16 +1,18 @@
 {
-  "name": "io.github.ykysnk.auto-hook.Editor",
-  "rootNamespace": "io.github.ykysnk.autohook",
-  "references": [
-    "io.github.ykysnk.auto-hook"
-  ],
-  "includePlatforms": [],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false,
-  "overrideReferences": false,
-  "precompiledReferences": [],
-  "autoReferenced": true,
-  "defineConstraints": [],
-  "versionDefines": [],
-  "noEngineReferences": false
+    "name": "io.github.ykysnk.auto-hook.Editor",
+    "rootNamespace": "io.github.ykysnk.autohook",
+    "references": [
+        "io.github.ykysnk.auto-hook"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
